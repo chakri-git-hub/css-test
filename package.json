@@ -1,6 +1,6 @@
 {
   "name": "css-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "css test",
   "main": "dist/css/index.css",
   "style": "dist/css/index.css",
