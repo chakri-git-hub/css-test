@@ -1,5 +1,5 @@
 {
-  "name": "css-test",
+  "name": "@chakri-git-hub/css-test",
   "version": "1.1.1",
   "description": "css test",
   "main": "dist/css/index.css",
@@ -8,6 +8,10 @@
     "build-css": "sass scss/index.scss dist/css/index.css"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/chakri-git-hub/css-test"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
